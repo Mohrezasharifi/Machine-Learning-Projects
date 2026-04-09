@@ -25,3 +25,6 @@ Matplotlib
 Numpy
 Scipy
 Scikit-learn
+
+**Research Paper Published:**
+https://ijsret.com/wp-content/uploads/2025/01/IJSRET_V11_issue1_141.pdf
