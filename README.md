@@ -1,4 +1,4 @@
-# Facial-Expression-with-Python
+# Facial-Expression-using-Machine-Learning
 
 <img width="1268" height="970" alt="Screenshot 2025-07-28 at 19 07 16" src="https://github.com/user-attachments/assets/f7eac5ba-b3e1-499f-9cdf-e8d3014fb921" />
 
