@@ -27,4 +27,8 @@ Scipy
 Scikit-learn
 
 **Research Paper Published:**
+<img width="1087" height="492" alt="image" src="https://github.com/user-attachments/assets/228ff5a6-cfff-4fde-bf3f-683d650815aa" />
+
+Read more here: 
+
 https://ijsret.com/wp-content/uploads/2025/01/IJSRET_V11_issue1_141.pdf
